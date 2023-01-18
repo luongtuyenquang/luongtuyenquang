@@ -1,4 +1,4 @@
-## Hi, I'm Lương Tuyên Quang 👋
+## Hi, I'm Quang 👋 (I'm a Front-end web developer)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luongtuyenquang&label=Số lượt truy cập trang&color=blue&style=plastic" alt="luongtuyenquang" /> </p>
 
